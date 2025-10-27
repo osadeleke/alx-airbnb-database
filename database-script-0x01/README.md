@@ -189,7 +189,7 @@ CREATE DATABASE airbnb_db;
 ## 2. Run Schema
 Execute the provided SQL script:
 ```sql
-\i airbnb_schema.sql
+\i schema.sql
 ```
 
 ### 3. (Optional) Seed Lookup Tables
